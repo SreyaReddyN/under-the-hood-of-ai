@@ -1,4 +1,4 @@
-# Under the Hood of AI — hosting guide
+# Under the Hood of AI - hosting guide
 
 This is a zero-build static website. You do not need Node, React, npm, a database, or a backend.
 
